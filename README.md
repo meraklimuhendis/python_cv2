@@ -1,2 +1,4 @@
-# python_cv2
- Python cv2 Projects
+Python cv2 Projects
+
+Projedeki örnek videolar aşağıdaki internet sitesinden alınmıştır;
+- https://pixabay.com/
